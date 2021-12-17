@@ -5,4 +5,10 @@
     <RootNamespace>RPS_Bot</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="BotInterface">
+      <HintPath>BotInterface.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
